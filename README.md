@@ -8,7 +8,7 @@
 
 [Project Spec](https://frontend.turing.edu/projects/module-1/dinner.html)
 
-[My Project](/Users/piperjarrett/modOne/whats-for-dinner/index.html)
+[My Project](https://piperjarrett.github.io/whats-for-dinner/)
 
 ## Background 
 What's for dinner is a question I ask myseld regualary. This website is desgined for a user to select a side. meal, dessert, or entire meal button that will then generate what you should make!
